@@ -404,3 +404,14 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows,macos,linux,python,node
+
+dash_mui/*
+!dash_mui/__init__.py
+deps/
+inst/
+R/
+src/jl/
+src/DashMui.jl
+NAMESPACE
+man/
+.Rbuildignore
