@@ -1,0 +1,11 @@
+include dash_mui/dash_mui.min.js
+include dash_mui/dash_mui.min.js.map
+include dash_mui/async-*.js
+include dash_mui/async-*.js.map
+include dash_mui/*-shared.js
+include dash_mui/*-shared.js.map
+include dash_mui/metadata.json
+include dash_mui/package-info.json
+include README.md
+include LICENSE
+include package.json
