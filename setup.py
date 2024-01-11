@@ -23,6 +23,7 @@ setup(
     install_requires=read_req_file("install"),
     python_requires=">=3.6",
     extras_require={
+        "ci": read_req_file("ci"),
         "dev": read_req_file("dev"),
     },
     classifiers = [
