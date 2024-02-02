@@ -19,5 +19,14 @@ setup(
     install_requires=[],
     classifiers = [
         'Framework :: Dash',
-    ],    
+        'Intended Audience :: Developers',
+        'Development Status :: 3 - Alpha',
+        'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
+        'Programming Language :: Python :: 3 :: Only'
+    ],
+    options={
+        'bdist_wheel': {
+            'universal': True
+        }
+    }
 )

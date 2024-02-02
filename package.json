@@ -14,7 +14,7 @@
     "build:activated": "npm run build:js && npm run build:backends-activated"
   },
   "author": "Lachlan Teale <lachlan.teale@gmail.com>",
-  "license": "MIT",
+  "license": "GPLV3",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
