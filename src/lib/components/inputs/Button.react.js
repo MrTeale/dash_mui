@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Button as RealComponent } from '../LazyLoader';
+import { Button as RealComponent } from '../../LazyLoader';
 
 /**
  * A Material UI Button component.
